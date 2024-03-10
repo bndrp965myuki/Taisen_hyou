@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC64782D-8D8F-4E53-8B59-2A89F57E9A24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Taisen_hyou/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "8292">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "7428">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcbbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180"
+                  offsetFromSymbolStart = "7312">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "7404">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "7312">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcb79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "7684">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "7744">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "7576">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "6676">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcb46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "7560">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "7564">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "7536">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7532">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7388">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7384">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7324">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7316">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7320">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7296">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7328">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7336">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7184">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7160">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7176">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7200">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7180">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7172">
+               </Location>
+               <Location
+                  uuid = "000C45AE-8AFD-405F-A849-C7CC3B99A81A - eed712cded5dcc84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taisen_hyou.Ransu() -&gt; ()"
+                  moduleName = "Taisen_hyou"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Documents/Xcode/Taisen_hyou/Taisen_hyou/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "189"
+                  endingLineNumber = "189"
+                  offsetFromSymbolStart = "7188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
